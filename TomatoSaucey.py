@@ -1,0 +1,1 @@
+bot.run("NDI4OTMwOTI2NTYzNTU3Mzc5.DZ6RpQ.oLHyDUs9vZ3HeOxu50aNtNJldBs")
